@@ -7,7 +7,7 @@ Packaging dummy assignment
 ## Installation
 
 ```bash
-$ pip install -i https://test.pypi.org/simple/ pypkgs_jg
+$ pip install -i https://test.pypi.org/simple/pypkgs_jg
 ```
 
 ## Features
